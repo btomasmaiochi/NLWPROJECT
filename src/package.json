@@ -1,0 +1,17 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direccionada ao dono da página. Projeto desenvolvido na semana NLW Rocketseat na missao Discover",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Bruna Tomás Maiochi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "wjw": "^1.0.0"
+  }
+}
