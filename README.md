@@ -37,7 +37,7 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 - Express
 - SQLite
 
-<h2>📚 Aprendizado <a name="id03"></a></h2>
+## 📚 Aprendizado
 
 <h3>📌 Aula 1</h3>
 
